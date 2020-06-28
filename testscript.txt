@@ -1,0 +1,12 @@
+•	Create a Project with name Web-Dev in Local Repository
+•	Create Two Branches "Java" and "JavaScript"
+•	Create Test Script and Increase Versioning in each Branch
+•	Merge Branches to Master "Web-Dev
+•	Push to code to Server
+
+helloooo
+this is a new file 
+
+
+please ignore the changes 
+this is a test file
